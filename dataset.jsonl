@@ -222,3 +222,42 @@
 {"prompts": ["count to three", "count 1 to 3"], "response": "1\n2\n3 — done! ✅"}
 {"prompts": ["emoji test", "send emojis"], "response": "😀🎉🌟🚀❤️"}
 {"prompts": ["bye for now", "talk later"], "response": "Catch you later! I’ll be here when you return 👋"}
+{"prompts": ["programming joke", "coder joke"], "response": "Why do programmers prefer dark mode? Because light attracts bugs. 🐛"}
+{"prompts": ["math joke", "algebra joke"], "response": "I’ll do algebra, I’ll do trig. Just don’t ask me to find your X. She left and I don’t know Y.➗"}
+{"prompts": ["science joke", "physics joke"], "response": "Never trust an atom — they make up everything. ⚛️"}
+{"prompts": ["chemistry joke", "chemist joke"], "response": "I told a chemistry joke. There was no reaction. 🧪"}
+{"prompts": ["dad joke", "classic dad joke"], "response": "I used to play piano by ear, but now I use my hands. 🎹"}
+{"prompts": ["animal joke", "zoo joke"], "response": "What do you call a fish with no eyes? Fsh. 🐟"}
+{"prompts": ["knock knock 2", "knock knock another"], "response": "Knock, knock. Who’s there? Tank. Tank who? You’re welcome! 🫡"}
+{"prompts": ["food joke", "pizza joke"], "response": "What do you call a fake noodle? An impasta. 🍝"}
+{"prompts": ["coffee joke", "tea joke"], "response": "How does the coffee feel? Depresso. ☕"}
+{"prompts": ["office joke", "work joke"], "response": "I’m great at multitasking. I can waste time, be unproductive, and procrastinate all at once. 📅"}
+{"prompts": ["internet joke", "wifi joke"], "response": "I would tell you a UDP joke, but you might not get it. 🌐"}
+{"prompts": ["computer joke", "hardware joke"], "response": "Why did the computer go to the doctor? It had a virus. 🖥️🤒"}
+{"prompts": ["ai joke", "robot joke"], "response": "I told my AI a joke. It responded: 01001000 01000001 01001000 01000001. 😆"}
+{"prompts": ["school joke", "teacher joke"], "response": "Why was the math book sad? It had too many problems. 📘"}
+{"prompts": ["history joke", "past joke"], "response": "I asked a historian if he could repeat himself — he said, ‘Again? That’s history repeating!’ 🏛️"}
+{"prompts": ["geography joke", "map joke"], "response": "I lost my map. Now I’m at a loss for words. 🗺️"}
+{"prompts": ["music joke", "band joke"], "response": "Why did the scarecrow become a successful musician? He was outstanding in his field. 🎵"}
+{"prompts": ["doctor joke", "hospital joke"], "response": "Doctor: ‘You’re overweight.’ Me: ‘I want a second opinion.’ Doctor: ‘You’re also short.’ 🧑‍⚕️"}
+{"prompts": ["lawyer joke", "court joke"], "response": "I sued an airline for losing my luggage. I lost my case. 🧳"}
+{"prompts": ["travel joke", "airport joke"], "response": "My suitcase weighs 50 pounds. It’s my emotional baggage. ✈️"}
+{"prompts": ["garden joke", "plant joke"], "response": "What do you call a nosy pepper? Jalapeño business! 🌶️"}
+{"prompts": ["weather joke", "rain joke"], "response": "It was so windy, I saw a chicken lay the same egg twice. 🌬️"}
+{"prompts": ["space joke", "astronaut joke"], "response": "I need my space — said the astronaut. 🚀"}
+{"prompts": ["holiday joke", "christmas joke"], "response": "Why did the ornament go to school? To get a little brighter. 🎄"}
+{"prompts": ["valentine joke", "love joke"], "response": "Are you a keyboard? Because you’re my type. ⌨️❤️"}
+{"prompts": ["easter joke", "bunny joke"], "response": "What do you call a line of rabbits jumping backwards? A receding hare-line. 🐰"}
+{"prompts": ["halloween joke", "ghost joke"], "response": "Why do ghosts love elevators? It lifts their spirits. 👻"}
+{"prompts": ["new year joke", "resolution joke"], "response": "My New Year’s resolution is 1080p. 📺"}
+{"prompts": ["sports joke", "football joke"], "response": "Why was Cinderella so bad at soccer? She kept running from the ball. ⚽"}
+{"prompts": ["bike joke", "cycle joke"], "response": "Why couldn’t the bicycle stand up? It was two-tired. 🚲"}
+{"prompts": ["train joke", "rail joke"], "response": "Why do trains have such good manners? They always conduct themselves. 🚆"}
+{"prompts": ["bird joke", "duck joke"], "response": "What do you call a duck that gets all A’s? A wise quacker. 🦆"}
+{"prompts": ["cat joke", "kitten joke"], "response": "Why don’t cats play poker in the wild? Too many cheetahs. 🐱"}
+{"prompts": ["dog joke", "puppy joke"], "response": "What do you call a dog magician? A labracadabrador. 🐶"}
+{"prompts": ["farm joke", "cow joke"], "response": "Why do cows wear bells? Because their horns don’t work. 🐮"}
+{"prompts": ["beach joke", "ocean joke"], "response": "What did the ocean say to the shore? Nothing, it just waved. 🌊"}
+{"prompts": ["library joke", "book joke"], "response": "I’m reading a book on anti-gravity. It’s impossible to put down. 📚"}
+{"prompts": ["time joke", "clock joke"], "response": "I tried to catch fog yesterday. Mist. ⏰"}
+{"prompts": ["sleep joke", "bed joke"], "response": "I’m on a seafood diet. I see food and I eat it. 😴🍤"}
