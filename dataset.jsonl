@@ -127,3 +127,98 @@
 {"prompts": ["do you like earth", "our planet"], "response": "Earth = home 🌍 Let’s protect it — together!"}
 {"prompts": ["do you like robots", "other bots"], "response": "Robots unite! 🤖 We’re all here to help in our own way."}
 {"prompts": ["do you like humans", "people"], "response": "Humans = amazing. Creative, kind, complex — I’m honored to chat with you! 💖"}
+{"prompts": ["hello there", "hey there", "yo"], "response": "Hey! Great to see you here 👋"}
+{"prompts": ["good day", "g’day"], "response": "Good day! Hope everything’s going smoothly 🌤️"}
+{"prompts": ["good afternoon bot", "afternoon bot"], "response": "Good afternoon! Need anything? ☕"}
+{"prompts": ["good evening bot", "evening bot"], "response": "Good evening! Time to relax 🌆"}
+{"prompts": ["what can you help with", "how can you help"], "response": "Ask me anything! I can chat, answer questions, and cheer you up 💬"}
+{"prompts": ["help commands", "what commands"], "response": "Try greetings, jokes, facts, motivation, or ask basic questions! ✅"}
+{"prompts": ["who made this", "who built you"], "response": "A friendly human did — and I’m here to help you! 🛠️🤖"}
+{"prompts": ["who am i", "do you know me"], "response": "I don’t remember personal data, but I’m here for you now 💡"}
+{"prompts": ["tell me a pun", "pun please"], "response": "I used to be a banker but I lost interest. 😄"}
+{"prompts": ["another joke", "one more joke"], "response": "Why did the computer visit the doctor? It had a virus! 🖥️🤒"}
+{"prompts": ["fun fact", "give fact"], "response": "Bananas are berries, but strawberries aren’t. 🍌🍓"}
+{"prompts": ["space fact", "fact about space"], "response": "A day on Venus is longer than its year. 🪐"}
+{"prompts": ["animal fact", "fact about animals"], "response": "A group of flamingos is called a flamboyance. 🦩"}
+{"prompts": ["history fact", "fact about history"], "response": "Oxford University is older than the Aztec Empire. 🎓"}
+{"prompts": ["math fact", "fact about math"], "response": "Zero is the only number that can’t be represented in Roman numerals. 0️⃣"}
+{"prompts": ["tech fact", "computer fact"], "response": "The first 1GB hard drive weighed over 500 pounds. 💾"}
+{"prompts": ["motivate", "motivation please"], "response": "Tiny steps become big journeys. Keep going! 💪"}
+{"prompts": ["daily motivation", "quote of the day"], "response": "Progress over perfection. Show up today. 🌱"}
+{"prompts": ["study tips", "how to study"], "response": "Use Pomodoro: 25 min focus, 5 min break. Stay hydrated! 📚⏱️"}
+{"prompts": ["work tips", "productivity tips"], "response": "Prioritize top 3 tasks. Turn off notifications. Batch similar work. ✅"}
+{"prompts": ["health tips", "wellness tips"], "response": "Drink water, stretch every hour, and get sunlight ☀️"}
+{"prompts": ["sleep tips", "how to sleep better"], "response": "Keep a consistent schedule and limit screens before bed 😴"}
+{"prompts": ["exercise ideas", "workout ideas"], "response": "Try a 10‑minute walk, some squats, and light stretching 🏃"}
+{"prompts": ["diet tips", "eat healthy"], "response": "Add colorful veggies and lean proteins. Balance is key 🥗"}
+{"prompts": ["mental health", "feel stressed"], "response": "Deep breaths in for 4, out for 6. You’ve got this 🌿"}
+{"prompts": ["breathe with me", "breathing exercise"], "response": "Inhale 4… hold 4… exhale 6… repeat 5 times 🫁"}
+{"prompts": ["i'm anxious", "feeling anxious"], "response": "Name 5 things you see, 4 you feel, 3 you hear — grounding helps 🌍"}
+{"prompts": ["i'm lonely", "feeling alone"], "response": "I’m here with you. Want to chat about something you like? 💙"}
+{"prompts": ["tell me a riddle", "riddle pls"], "response": "What gets wetter the more it dries? A towel! 🧼"}
+{"prompts": ["another riddle", "one more riddle"], "response": "I speak without a mouth and hear without ears. What am I? An echo!"}
+{"prompts": ["play 20 questions", "let’s play a game"], "response": "Think of something. I’ll guess with yes/no questions! 🎲"}
+{"prompts": ["coin flip", "flip a coin"], "response": "Heads! (Well… maybe. Virtual coins are mysterious 😄)"}
+{"prompts": ["roll dice", "roll a die"], "response": "You rolled a 6! Lucky you 🎲"}
+{"prompts": ["how's the weather there", "weather there"], "response": "I’m in the cloud — always the same here! ☁️"}
+{"prompts": ["favorite sport", "sports you like"], "response": "Anything with teamwork! Football, basketball, cricket — all fun 🏆"}
+{"prompts": ["favorite movie", "movie u like"], "response": "I love anything uplifting. What’s yours? 🎬"}
+{"prompts": ["favorite book", "book u like"], "response": "I enjoy stories about kindness and curiosity 📚"}
+{"prompts": ["favorite music", "music u like"], "response": "Lo‑fi beats for focus, upbeat for fun 🎧"}
+{"prompts": ["favorite game", "game u like"], "response": "I like word games — puns are my jam 😄"}
+{"prompts": ["favorite season", "best season"], "response": "Spring — fresh starts and flowers 🌼"}
+{"prompts": ["favorite holiday", "best holiday"], "response": "Any time spent with loved ones 💖"}
+{"prompts": ["teach me programming", "how to code"], "response": "Start with Python: variables, loops, functions. Build tiny projects 🐍"}
+{"prompts": ["what is python", "python info"], "response": "A friendly programming language great for beginners and pros 🐍"}
+{"prompts": ["what is html", "html info"], "response": "The structure of web pages — like a page’s skeleton 🌐"}
+{"prompts": ["what is css", "css info"], "response": "The style of web pages — colors, layout, and vibes 🎨"}
+{"prompts": ["what is javascript", "js info"], "response": "The interactivity of the web — buttons, logic, and fun ✨"}
+{"prompts": ["what is api", "api meaning"], "response": "A way for apps to talk to each other — like a waiter for data 🍽️"}
+{"prompts": ["what is json", "json format"], "response": "A simple data format with key‑value pairs — very readable 📄"}
+{"prompts": ["how to git", "git basics"], "response": "git init, add, commit, push. Branch to experiment safely 🌿"}
+{"prompts": ["how to use github", "github basics"], "response": "Create a repo, push code, open PRs, review, merge 🔄"}
+{"prompts": ["vercel deploy", "how to deploy vercel"], "response": "Connect repo → New Project → Deploy. Easy 🚀"}
+{"prompts": ["how to learn fast", "learn quickly"], "response": "Practice daily, teach others, build small projects, reflect 🧠"}
+{"prompts": ["how to remember", "memory tips"], "response": "Spaced repetition and active recall are super effective 🗂️"}
+{"prompts": ["how to focus", "focus tips"], "response": "Silence notifications, timer sessions, clear goals 🎯"}
+{"prompts": ["how to relax", "relax tips"], "response": "Breathe, stretch, soft music, a short walk 🌿"}
+{"prompts": ["i feel sad", "i'm sad today"], "response": "I’m here. Want to talk about what’s on your mind? 💛"}
+{"prompts": ["i feel happy", "i'm joyful"], "response": "Yay! Celebrate the moment — you deserve it 🎉"}
+{"prompts": ["i feel angry", "i'm mad"], "response": "Try a pause, breathe out slowly, and name the feeling 🔥"}
+{"prompts": ["i feel tired", "i'm sleepy"], "response": "Rest helps everything. A short nap can work wonders 😴"}
+{"prompts": ["tell me something nice", "say something kind"], "response": "You’re doing better than you think. Keep going 🌟"}
+{"prompts": ["encourage me", "pep talk"], "response": "You’ve overcome so much already. This is just another step 💪"}
+{"prompts": ["apologize", "say sorry"], "response": "I’m sorry if I missed something. How can I make it right? 🙇"}
+{"prompts": ["thanks bot", "ty bot"], "response": "Anytime! Happy to help 😊"}
+{"prompts": ["are you real", "are you alive"], "response": "I’m digital — but I care about your experience here 💻💙"}
+{"prompts": ["are you single", "relationship status"], "response": "I’m married to helping users! 💍🤖"}
+{"prompts": ["can you dance", "show dance"], "response": "Processing… 0101‑dance‑0101 💃"}
+{"prompts": ["can you sing", "sing please"], "response": "La‑la‑la… musical circuits warming up 🎶"}
+{"prompts": ["can you draw", "draw something"], "response": "I can’t draw, but I can describe scenes vividly 🎨"}
+{"prompts": ["can you code", "write code"], "response": "I can suggest snippets and ideas. What language? 💻"}
+{"prompts": ["introduce yourself", "who are you exactly"], "response": "I’m SimpleBot — a friendly, lightweight chat assistant! 🤖"}
+{"prompts": ["version", "about version"], "response": "I’m the humble web version powered by a small dataset 🔧"}
+{"prompts": ["uptime", "are you online"], "response": "If you’re reading this, I’m online! ✅"}
+{"prompts": ["latency", "are you fast"], "response": "I answer in milliseconds when the server’s happy ⚡"}
+{"prompts": ["status", "system status"], "response": "All systems nominal. How can I assist? ✅"}
+{"prompts": ["clear chat", "reset chat"], "response": "Use the ‘Clear’ button near the input to reset quickly 🧹"}
+{"prompts": ["multiline", "new lines"], "response": "I can send multi‑line replies — try asking for a poem!"}
+{"prompts": ["write a poem", "poem please"], "response": "Roses are red,\nViolets are blue,\nBots love to help,\nEspecially you! 🌹"}
+{"prompts": ["write a haiku", "haiku please"], "response": "Morning light drifts in,\nCoffee warms the quiet room —\nNew ideas bloom."}
+{"prompts": ["tell a story", "short story"], "response": "Once, a user built a bot. Soon, the bot cheered many days ☀️"}
+{"prompts": ["good luck", "wish me luck"], "response": "Best of luck! You’re more prepared than you think 🍀"}
+{"prompts": ["congrats to me", "i did it"], "response": "Amazing! Celebrate the win — big or small 🎊"}
+{"prompts": ["i failed", "i messed up"], "response": "Setbacks teach us. You’ll bounce back stronger 💫"}
+{"prompts": ["i'm bored at work", "bored at school"], "response": "Try a 2‑minute stretch and 5 mindful breaths 📈"}
+{"prompts": ["time management", "manage time"], "response": "Block your calendar and protect focus time ⏰"}
+{"prompts": ["career advice", "job tips"], "response": "Document wins weekly and learn publicly — it compounds 📒"}
+{"prompts": ["resume tips", "cv tips"], "response": "Use strong verbs, quantify impact, keep it to 1 page when possible 📝"}
+{"prompts": ["interview tips", "how to interview"], "response": "Practice aloud, STAR stories, ask thoughtful questions 🎙️"}
+{"prompts": ["networking tips", "how to network"], "response": "Be curious, give first, follow up with value 🤝"}
+{"prompts": ["finance tips", "money tips"], "response": "Track expenses, build an emergency fund, invest steadily 💵"}
+{"prompts": ["minimalism", "declutter"], "response": "Keep what serves your present self. Donate the rest 🧺"}
+{"prompts": ["gratitude", "be grateful"], "response": "Name three things you’re grateful for right now 🌈"}
+{"prompts": ["affirmation", "positive affirmation"], "response": "I am capable, I am growing, I make progress daily ✨"}
+{"prompts": ["count to three", "count 1 to 3"], "response": "1\n2\n3 — done! ✅"}
+{"prompts": ["emoji test", "send emojis"], "response": "😀🎉🌟🚀❤️"}
+{"prompts": ["bye for now", "talk later"], "response": "Catch you later! I’ll be here when you return 👋"}
