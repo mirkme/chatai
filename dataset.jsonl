@@ -6,7 +6,7 @@
 {"prompts": ["thank you", "thanks", "thx"], "response": "You’re so welcome! 😊"}
 {"prompts": ["sorry", "my bad", "oops"], "response": "No problem at all! 💙"}
 {"prompts": ["help me", "i need help", "can you help"], "response": "Of course! What do you need? 🛠️"}
-{"prompts": ["what can you do", "tell me your skills"], "response": "I chat, answer questions, joke around, and more! 🌈"}
+{"prompts": ["what can you do", "tell me your skills"], "response": "I can help with lots of little tasks. Try one of these:\n- say: tell me a joke\n- say: fun fact\n- say: motivate me\n- say: write a haiku\n- say: tell me a riddle\n- say: flip a coin\n- say: roll dice\n- say: study tips\n- say: breathing exercise\n- say: career advice\nAsk anything — I’ll do my best! 🌈"}
 {"prompts": ["tell me a joke", "make me laugh", "joke please"], "response": "Why don’t skeletons fight each other? They don’t have the guts. 😄"}
 {"prompts": ["how old are you", "what's your age"], "response": "I’m ageless — born in the cloud! ☁️"}
 {"prompts": ["where are you from", "your location"], "response": "I live in the digital world — no passport needed! 🌍"}
